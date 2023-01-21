@@ -7,6 +7,9 @@
 
   All you need to run this script is hosting with php
   Easy automatic payments without intermediaries :)
+  
+  Written by: tomiiiii
+  Mialto: t0mi[:-)]protonmail.com 
 ********************************************************************/ 
 
 
