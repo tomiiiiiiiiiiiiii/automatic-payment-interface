@@ -70,7 +70,7 @@ if ($address = new_addrss_grlc())
     *******************************************************************/ 
     @mkdir("./save_addr/", 0777);
 
-    if ($f = fopen("./save_addr/".$address['0'], "a"))
+    if ($f = fopen("./save_addr/".$address['0'], "w"))
     {
         fwrite($f, $address['1']);
         fclose($f);  
